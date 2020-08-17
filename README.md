@@ -19,7 +19,7 @@
 :dart: Emplear los datos recopilados de las técnicas aprendidas y aplicarlos al momento de la creación del software. 
 
 
-<h2> Planteamiento Del Problema.
+<h2> Planteamiento del Problema.
 
 <H4>
 
