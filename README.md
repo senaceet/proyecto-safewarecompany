@@ -4,7 +4,7 @@
   
 <H4>
   
-:small_blue_diamond: Crear un programa el cual gestione sistemáticamente la información de conjuntos residenciales, mejorando así la seguridad de dichos datos, la precisión de estos y a su vez facilitar el ingreso de dicha información.
+:small_blue_diamond:Crear un programa el cual gestione sistemáticamente la información de conjuntos residenciales, mejorando así la seguridad de dichos datos, la precisión de estos y a su vez facilitar el ingreso de dicha información.
 
 <H2> Objetivos Especificos.
   
