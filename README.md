@@ -1,6 +1,6 @@
 <H1> :lock: Safeware Company
   
-<H2> Objetivo General. 
+<H2> Objetivo general. 
   
 <H4>
   
