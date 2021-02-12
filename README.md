@@ -1,4 +1,4 @@
-<H1> :lock: Safeware Company
+<H1> :lock: Safeware company
   
 <H2> Objetivo general. 
   
