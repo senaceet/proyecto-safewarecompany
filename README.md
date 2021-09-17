@@ -1,40 +1,54 @@
-<H1> :lock: Safeware company
-  
-<H2> Objetivo general. 
-  
-<H4>
-  
-:small_blue_diamond:Crear un programa el cual gestione sistemáticamente la información de conjuntos residenciales, mejorando así la seguridad de dichos datos, la precisión de estos y a su vez facilitar el ingreso de dicha información.
+# Safeware Company | ADSI 2067459
 
-<H2> Objetivos especificos.
-  
-<H4>
-  
-:dart: Implementar herramientas que permitan el levantamiento de información.
+***Sistema de control de acceso para conjuntos residenciales***
 
-:dart: Aprovechar e integrar la información adquirida de dichas herramientas.
+![Safeware_Company_Logo](https://github.com/senaceet/proyecto-safewarecompany/blob/Developer_x-DavidHernandez-NLS/01_An%C3%A1lisis/02_Logo/LSCP.png "Safeware_Company")
 
-:dart: Definir el lenguaje de programación a utilizar al momento del desarrollo. 
+> ***"La seguridad es importante, y más si vive en un país tercermundista - Safeware Company."***
 
-:dart: Emplear los datos recopilados de las técnicas aprendidas y aplicarlos al momento de la creación del software. 
+- **Integrantes**:
+  - **Luisa Fernanda Alarcón Castañeda**:
+    - [Repositorio personal - GitHub]("https://github.com/luisa-alarcon)
+    - Correo electrónico: lfalarconca987@gmail.com
+  - **David Andrés Hernández Triana:**
+    - [Repositorio personal - GitHub](https://github.com/x-DavidHernandez-x)
+    - Correo electronico: davidandreshernandeztriana@gmail.com
+  - **Harol Daniel Naranjo Yunez:**
+    - [Repositorio personal - GitHub]("https://github.com/DaniielNaranjo)
+    - Correo electrónico: gtasrock777@hotmail.com
+  - **Michael Stick Mejía Perdomo**:
+    - [Repositorio personal - GitHub]("https://github.com/MichaelMejia27)
+    - Correo electrónico: michaelopcional@gmail.com
 
+---
 
-<h2> Planteamiento del Problema.
+- **Sumario**:
+  1. [Objetivo General](#objetivo-general)
+  2. [Objetivos Específicos](#objetivos-específicos)
+  3. [Planteamiento Del Problema](#planteamiento-del-problema)
+  4. [Alcance Del Proyecto](#alcance-del-proyecto)
+  5. [Justificación](#justificación)
 
-<H4>
+## Objetivo General
 
-:small_blue_diamond:En los conjuntos residenciales se debe guardar información continuamente de cada una de las situaciones que transcurren las 24 horas, dicha información debe ser consignada en un sitio determinado (minuta). Este proceso de anotar constantemente en la minuta puede resultar demasiado tedioso, y por tal motivo puede quedar la información mal consignada o inconclusa, además de esto puede ocurrir una manipulación errónea de la información y una perdida de la misma.
+Desarrollar e implementar un sistema de información, el cual permita controlar el acceso y salida de visitantes, personal que labora y vehículos (Residentes / Visitantes / Empleados) en un conjunto residencial.
 
-<h2> Alcance del proyecto. 
-  
-<H4>
-  
-:small_blue_diamond:Implementar una herramienta de suma importancia para la administración del conjunto siendo esta la opción mas eficaz y confiable, brindando un apoyo al momento de recolectar información, permitiendo de esta manera facilitar las diferentes tareas que conlleva un conjunto residencial, siendo este un sistema mas accesible para los residentes; esto sin dejar de lado que el programa sea amigable e intuitivo para que se facilite su uso a cualquier individuo, además de ser seguro al momento de almacenar datos.
+## Objetivos Específicos
 
+- Mantener un orden de acceso por medio de registros de entrada y salida.
+- Brindar a los usuarios la facilidad de registrar todos aquellos datos recolectados durante el transcurso del día.
+- Crear interfaces interactivas y amigables que cumplan con las necesidades del cliente.
+- Recolectar datos personales referentes a los visitantes, vehículos y personal que labore dentro del conjunto residencial.
 
-<h2> Justificación.
-  
-<H4>
-  
-:small_blue_diamond:Se busca innovar con nuestro programa el sistema de minutas actual, ya que es un sistema deficiente en varios aspectos (confiabilidad, seguridad, eficiencia, etc). Se quiere crear un programa que simplifique el ingreso de información basándose en códigos que ayuden a que el registro sea mas sencillo y eficaz.
-El programa es viable ya que quiere mejorar las falencias que existen en los sistemas actuales, además de que así mismo mejorara la seguridad, funciones internas y recolección de datos de los conjuntos residenciales.
+## Planteamiento Del Problema
+
+En el trascurso del día a día se puede observar una gran circulación de individuos en los conjuntos residenciales, cabe resaltar que gran cantidad de estos individuos sin ajenos dicho entorno. Los datos de cada una de estas personas no pertenecientes al conjunto de debe ser consignada en un sitio determinado, esto para mantener el orden y la seguridad en el mismo. El proceso del registro escrito (escritura manual) en la mayoría de ocasiones puede resultar tedioso o monótono y por tal motivo, la información puede permanecer mal consignada o inconclusa; además de los diversos problemas que se pueden presentar en un determinado contexto al momento de consignar la información, uno de los que puede perjudicar drásticamente al conjunto residencial, es la pérdida total de la misma.
+
+## Alcance Del Proyecto
+
+Safeware Company esta principalmente enfocada en ser mecanismo de seguridad el cual operara en un entorno virtual (web), este brindara un soporte de flexibilidad y operatividad al momento de controlar, administrar e inspeccionar información relacionada con la entrada y salida de individuos no pertenecientes al conjunto residencial, proporcionando una mayor seguridad ante posibles fallos o problemáticas.
+
+## Justificación
+
+Al día de hoy los sistemas de control de acceso para conjuntos residenciales carecen de eficiencia, confiabilidad y precisión en la organización de datos, en este caso las entidades se favorecerían al adquirir un sistema de información, que proporcione herramientas las cuales brinden un servicio de acuerdo a las problemáticas anteriormente mencionadas, no obstante, Safeware Company estará en la capacidad de adaptarse a nuevas tecnologías, fortaleciendo e innovando su imagen en esta nueva era virtual.
+
