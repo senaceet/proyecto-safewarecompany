@@ -4,7 +4,7 @@
 
 ![Safeware_Company_Logo](https://github.com/senaceet/proyecto-safewarecompany/blob/Developer_x-DavidHernandez-NLS/01_An%C3%A1lisis/02_Logo/LSCP.png "Safeware_Company")
 
-> ***"La seguridad es importante, y más si vive en un país tercermundista - Safeware Company."***
+> ***"Mi Madre me dio la vida y este proyecto las ganas de quitarmela - Safeware Company."***
 
 - **Integrantes**:
   - **Luisa Fernanda Alarcón Castañeda**:
