@@ -1,0 +1,17 @@
+INSERT INTO
+[dbo].[AspNetUserRoles] ([UserId], [RoleId])
+VALUES
+('E5D03AD3-BC5D-4BFB-9D44-3086D8669170', 3)
+GO
+
+INSERT INTO
+[dbo].[AspNetUserRoles] ([UserId], [RoleId])
+VALUES
+('72B0346F-9C1F-4C6F-BF01-BE4285A6174D', 1)
+GO
+
+INSERT INTO
+[dbo].[AspNetUserRoles] ([UserId], [RoleId])
+VALUES
+('D897111E-014D-4487-A106-AADFE4F509FC', 2)
+GO
